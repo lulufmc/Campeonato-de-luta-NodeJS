@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-simuladordeluta",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luiz Felipe",
+  "license": "ISC",
+  "description": "Simulador de lutas",
+  "type": "module"
+}
